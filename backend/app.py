@@ -11,7 +11,6 @@ CORS(app)
 # - You are free to use additional data structures in your solution
 # - You must define and tell your tutor one edge case you have devised and how you have addressed this
 
-
 @app.route("/students")
 def get_students():
     """
